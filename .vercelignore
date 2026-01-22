@@ -1,0 +1,14 @@
+headlessbuild/
+GRUDGE_Data/
+.vs/
+Build/node_modules/
+*.log
+*.exe
+*.bin
+*.dll
+MonoBleedingEdge/
+UnityCrashHandler64.exe
+UnityPlayer.dll
+dependencies.txt
+GUID.txt
+ProjectVersion.txt
