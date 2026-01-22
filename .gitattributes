@@ -1,2 +1,5 @@
 Build/game.data.gz filter=lfs diff=lfs merge=lfs -text
 Build/*.gz filter=lfs diff=lfs merge=lfs -text
+Build/game.data filter=lfs diff=lfs merge=lfs -text
+Build/game.framework.js filter=lfs diff=lfs merge=lfs -text
+Build/game.wasm filter=lfs diff=lfs merge=lfs -text
