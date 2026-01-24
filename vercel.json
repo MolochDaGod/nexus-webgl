@@ -1,19 +1,4 @@
 {
   "buildCommand": null,
-  "outputDirectory": ".",
-  "headers": [
-    {
-      "source": "/Build/(.*)",
-      "headers": [
-        {
-          "key": "Content-Encoding",
-          "value": "gzip"
-        },
-        {
-          "key": "Content-Type",
-          "value": "application/wasm"
-        }
-      ]
-    }
-  ]
+  "outputDirectory": "."
 }
